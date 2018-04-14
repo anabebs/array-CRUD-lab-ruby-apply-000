@@ -16,7 +16,7 @@ end
 def add_element_to_start_of_array(array, element)
   names.unshift
 end
-arr(0)
+
 def remove_element_from_end_of_array(array)
 arr.pop
 end
