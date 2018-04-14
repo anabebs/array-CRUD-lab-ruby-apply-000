@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   names.push
 end
-arr(5)
+names(5)
 end
 
 
